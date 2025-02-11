@@ -47,7 +47,7 @@ Me chamo Caio Cardoso, tenho 20 anos e resido em Brusque - SC. Atualmente, estou
 ###
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=httpscaiow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=httpscaiow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=httpscaiow&locale=en&hide_title=false&layout=compact&card_width=50&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="160" alt="languages graph" />
 </div>
 <p>
