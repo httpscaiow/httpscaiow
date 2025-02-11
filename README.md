@@ -1,22 +1,26 @@
-# 👨🏽‍💻 Caio Cardoso
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7737c1&height=120&section=header"/>
 
-**`Estudante de Ciências da Computação`**
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7737c1&size=35&center=false&vCenter=true&width=800&lines=⁝+ᴏʟᴀ,+ᴍᴇ+ᴄʜᴀᴍᴏ+ᴄᴀɪᴏ+ᴄᴀʀᴅᴏsᴏ+;+)](https://git.io/typing-svg)
 
-Me chamo Caio Cardoso, tenho 20 anos resido em Brusque - SC. Atualmente, estou cursando Ciências da Computação na Universidade do Vale do Itajaí - UNIVALI. Sou apaixonado por tecnologia e aqui compartilho meus projetos e aprendizados. 
+**`Estudante de Ciências da Computação`** 
+
+Me chamo Caio Cardoso, tenho 20 anos e resido em Brusque - SC. Atualmente, estou cursando Ciências da Computação na Universidade do Vale do Itajaí - UNIVALI. Sou apaixonado por tecnologia e aqui compartilho meus projetos e aprendizados.
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/iamcaiow/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
-  </a>
+<div align="left">
   <a href="www.linkedin.com/in/caiocardoso00" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=IN&color=7737c1&logoColor=white&labelColor=7737c1&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
-  <a href="caio.cardosotab@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
+  <a href="https://www.instagram.com/iamcaiow/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7737c1&logoColor=white&labelColor=7737c1&style=for-the-badge" height="28" alt="instagram logo"  />
+  </a>
+  <a href="mailto:caio.cardosotab@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=7737c1&logoColor=white&labelColor=7737c1&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
 </div>
+
+###
 
 #
 
@@ -46,8 +50,9 @@ Me chamo Caio Cardoso, tenho 20 anos resido em Brusque - SC. Atualmente, estou c
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=httpscaiow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=httpscaiow&locale=en&hide_title=false&layout=compact&card_width=50%&langs_count=5&theme=aura&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=httpscaiow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=httpscaiow&locale=en&hide_title=false&layout=compact&card_width=50&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 <p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7737c1&height=120&section=footer"/>
