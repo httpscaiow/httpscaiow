@@ -6,7 +6,9 @@
 
 ## Sobre
 
-Me chamo Caio Cardoso, tenho 20 anos e resido em Brusque - SC. Curso Ciências da Computação na Universidade do Vale do Itajaí (UNIVALI), com foco em desenvolvimento de software, redes de computadores e visão computacional.
+Olá! Me chamo **Caio Cardoso**, tenho 22 anos e resido em **Brusque - SC**. Atualmente curso **Ciências da Computação** na **Universidade do Vale do Itajaí (UNIVALI)**, onde venho desenvolvendo projetos de desenvolvimento de software.
+
+Aqui compartilho meus projetos, aprendizados e experimentos pelo caminho. 
 
 ## Tecnologias
 
