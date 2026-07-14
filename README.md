@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2540,50:1E5A8E,100:4FC1FF&height=180&section=header&text=Caio%20Cardoso&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Estudante%20de%20Ciências%20da%20Computação&descAlignY=58&descAlign=50" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiocardoso00)
-
 </div>
 
 ## Sobre
