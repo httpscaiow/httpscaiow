@@ -1,53 +1,56 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7737c1&height=120&section=header"/>
+<div align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7737c1&size=35&center=false&vCenter=true&width=800&lines=⁝+ᴏʟᴀ,+ᴍᴇ+ᴄʜᴀᴍᴏ+ᴄᴀɪᴏ+ᴄᴀʀᴅᴏsᴏ+;+)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2540,50:1E5A8E,100:4FC1FF&height=180&section=header&text=Caio%20Cardoso&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Estudante%20de%20Ciências%20da%20Computação&descAlignY=58&descAlign=50" width="100%"/>
 
-**`Estudante de Ciências da Computação`** 
-
-Me chamo Caio Cardoso, tenho 20 anos e resido em Brusque - SC. Atualmente, estou cursando Ciências da Computação na Universidade do Vale do Itajaí - UNIVALI. Aqui compartilho meus projetos e aprendizados.
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/caiocardoso00" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=IN&color=7737c1&logoColor=white&labelColor=7737c1&style=for-the-badge" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/iamcaiow/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7737c1&logoColor=white&labelColor=7737c1&style=for-the-badge" height="28" alt="instagram logo"  />
-  </a>
-  <a href="mailto:caio.cardosotab@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=7737c1&logoColor=white&labelColor=7737c1&style=for-the-badge" height="28" alt="gmail logo"  />
-  </a>
 </div>
-
-###
-
-#
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiocardoso00)
+
 </div>
 
-###
+<br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=httpscaiow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=httpscaiow&locale=en&hide_title=false&layout=compact&card_width=50&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="170" alt="languages graph" />
+## Sobre mim
+
+Olá! Me chamo **Caio Cardoso**, tenho 22 anos e resido em **Brusque - SC**. Atualmente curso **Ciências da Computação** na **Universidade do Vale do Itajaí (UNIVALI)**, onde venho desenvolvendo projetos de desenvolvimento de software.
+
+Aqui compartilho meus projetos, aprendizados e experimentos pelo caminho.
+
+<br>
+
+## Tecnologias
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-1E5A8E?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-2E6DA4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0F2540?style=for-the-badge&logo=python&logoColor=4FC1FF"/>
+<img src="https://img.shields.io/badge/C++-2E6DA4?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-0F2540?style=for-the-badge&logo=figma&logoColor=4FC1FF"/>
+
 </div>
 
+<br>
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=httpscaiow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC1FF&icon_color=1E5A8E&text_color=9CDCFE" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=httpscaiow&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E5A8E&ring=4FC1FF&fire=4FC1FF&currStreakLabel=4FC1FF" width="48%"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpscaiow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC1FF&text_color=9CDCFE" width="48%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC1FF,50:1E5A8E,100:0F2540&height=100&section=footer"/>
+
+</div>
